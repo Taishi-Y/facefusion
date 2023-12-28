@@ -1,4 +1,4 @@
-FaceFusion
+FaceFusion Unleashed
 ==========
 Edited `\facefusion\content_analyser.py` to unlocked NSFW filter.
 Don't use this for anything illegal! ⚠️
