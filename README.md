@@ -1,9 +1,13 @@
 FaceFusion Unleashed
 ==========
-Edited `\facefusion\content_analyser.py` to unlocked NSFW filter.
+Edited `\facefusion\content_analyser.py` to unlocked NSFW filter. ([ref](https://www.reddit.com/r/StableDiffusion/comments/18dch8l/hotto_remove_nsfw_filter_in_facefusion_20/))
+
 Don't use this for anything illegal! ⚠️
 
-https://www.reddit.com/r/StableDiffusion/comments/18dch8l/hotto_remove_nsfw_filter_in_facefusion_20/
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Taishi-Y/facefusion-unleashed/blob/master/facefusion_unleash.ipynb)
+
+
 
 > Next generation face swapper and enhancer.
 
