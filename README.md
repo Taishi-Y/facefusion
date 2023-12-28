@@ -1,5 +1,9 @@
 FaceFusion
 ==========
+Edited `\facefusion\content_analyser.py` to unlocked NSFW filter.
+Don't use this for anything illegal! ⚠️
+
+https://www.reddit.com/r/StableDiffusion/comments/18dch8l/hotto_remove_nsfw_filter_in_facefusion_20/
 
 > Next generation face swapper and enhancer.
 
